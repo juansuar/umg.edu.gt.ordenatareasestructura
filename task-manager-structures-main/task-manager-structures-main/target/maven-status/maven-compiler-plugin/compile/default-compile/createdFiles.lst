@@ -1,0 +1,17 @@
+umg\edu\gt\structures\tree\CustomBinaryTree.class
+umg\edu\gt\structures\stack\CustomStack.class
+umg\edu\gt\structures\list\CustomTaskList.class
+umg\edu\gt\structures\queue\CustomQueue.class
+umg\edu\gt\structures\service\TreeService.class
+umg\edu\gt\structures\tree\CustomBinaryTree$Node.class
+umg\edu\gt\structures\service\PriorityQueueService.class
+umg\edu\gt\structures\list\TaskNode.class
+umg\edu\gt\structures\service\QueueService.class
+umg\edu\gt\structures\service\StackService.class
+umg\edu\gt\structures\list\CustomLinkedList$Node.class
+umg\edu\gt\structures\list\UserTaskList.class
+umg\edu\gt\structures\MainTestStructures.class
+umg\edu\gt\structures\service\ListService.class
+umg\edu\gt\structures\list\CustomLinkedList.class
+umg\edu\gt\taskmanagerspringboot\structures\SubtaskNode.class
+umg\edu\gt\structures\queue\CustomPriorityQueue.class
